@@ -1,0 +1,40 @@
+
+body{
+    background-color:#C1A5AA    ;
+    font-family: 'Darker Grotesque', sans-serif;
+    
+}
+p{
+    text-align: justify;
+    text-align: center;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    
+}
+.gato {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    display:block;
+      margin:auto;
+    }
+.gato1{
+    font-size: 20px;;
+}
+nav,footer {
+    background-color: #837175;
+    color: white;
+    border: none;
+    padding:5px;
+    margin-top:0px;
+}
+a{
+    cursor: pointer;
+}
+.im{
+    position: absolute;
+    text-decoration: underline;
+    cursor: pointer;
+}
